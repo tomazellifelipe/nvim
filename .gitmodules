@@ -10,3 +10,9 @@
 [submodule "autoload/plugged/vim-polyglot"]
 	path = autoload/plugged/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "autoload/plugged/vim-airline"]
+	path = autoload/plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "autoload/plugged/vim-airline-themes"]
+	path = autoload/plugged/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
